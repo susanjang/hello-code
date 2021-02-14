@@ -1,1 +1,2 @@
-# hello-code
+Hello 
+I'm Susan Jang.
